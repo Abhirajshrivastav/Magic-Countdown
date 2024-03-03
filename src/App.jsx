@@ -13,7 +13,7 @@ function App() {
   });
 
   useEffect(() => {
-    const magicDate = new Date('5 Jun 2024').getTime();
+    const magicDate = new Date('26 May 2024').getTime();
 
     const updateTimer = () => {
       const currentTime = new Date().getTime();
